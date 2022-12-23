@@ -1,1 +1,1 @@
-# SPI serial communication protocol application
+# SPI Serial Communication Protocol Application
